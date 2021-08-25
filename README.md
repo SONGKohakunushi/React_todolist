@@ -2,7 +2,7 @@
 -------------------
 
 **The project will not use pubsub and redux to transfer state, but will use the way of  sibling components communciation in order to practice what i have learned before.
-All the ideas and details will be included , explain each component and every step to complete the project**
+All the ideas and details will be included in file README2, explain each component and every step to complete the project**
 
 ## Requirement:
 * The Header is entered, the content is added to the top of the List by hitting Enter then the text in the input box is cleared.
